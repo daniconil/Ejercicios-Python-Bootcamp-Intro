@@ -27,7 +27,7 @@ def is_valid_password(passwd):
   
 def main(): 
     passwd = input('Ingresa tu contraseña: ')
-    #passwd = 'pepitoP12*'
+    #Importante, la contraseña se mostrará en pantalla
     
     if (is_valid_password(passwd)): 
         print("La contraseña es válida") 
