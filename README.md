@@ -359,7 +359,7 @@ La función debe retornar un nuevo listado con todos aquellos elementos de la li
 
 Desarrolla un script el cual nos permita validar contraseñas para los usuarios de CódigoFacilito. El script debe cumplir con los siguientes requerimientos.
 
-- Las validaciones se deben hacerse sobre la función _is\_valid\*password*.
+- Las validaciones deben hacerse sobre la función _is\_valid\*password*.
 - La función debe poseer como parámetro la variable *password*.
 - La función debe recibir como argumento (al momento de su llamado) una string en texto plano.
 - La función debe retornar un True en caso el parámetro cumpla con las validaciones de una contraseña segura.
