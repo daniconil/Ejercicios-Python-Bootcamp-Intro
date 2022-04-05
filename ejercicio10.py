@@ -8,4 +8,4 @@ if primer_caracter.lower() in 'aeiou':
 else:
     nueva_palabra = palabra[1:] + primer_caracter + 'ay'
 
-print(nueva_palabra)
+print("La palabra piglatineada es " + nueva_palabra)
