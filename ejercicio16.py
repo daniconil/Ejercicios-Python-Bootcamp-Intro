@@ -1,3 +1,5 @@
+# 16.-  Multiplicación de dos listados
+
 def multiplicacion(lista_a, lista_b):
     if len(lista_a) == len(lista_b):
         

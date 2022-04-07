@@ -1,3 +1,5 @@
+# 5.- Contador de substrings
+
 def contador_substrings(sentence, substring):
     count = 0
     longitud_sentence = len(sentence)

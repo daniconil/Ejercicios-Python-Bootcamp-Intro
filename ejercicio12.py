@@ -1,3 +1,5 @@
+# 12.- Ubbi Dubbi
+
 palabra = input('Ingresa tu palabra: ')
 nueva_palabra = ''
 

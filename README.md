@@ -88,7 +88,7 @@ $ python main.py
 'Nuevo ejercicio'
 ```
 
-### 5.- Contador de substrings.
+### 5.- Contador de substrings
 
 Desarrolla una función que permita conocer la cantidad de veces que existe un substring en un string.
 
@@ -116,7 +116,7 @@ Ejemplos.
 
 **Restricción**: No es posible utilizar el método *count* del String. 😵‍💫
 
-### 6.-  Cantidad de dígitos número entero.
+### 6.-  Cantidad de dígitos número entero
 
 Definir una función la cual nos permita conocer cuántos dígitos posee un número.
 
@@ -297,7 +297,7 @@ dubemubo
 cubar
 ```
 
-### 13.-  Eliminar elementos duplicados de una lista.
+### 13.-  Eliminar elementos duplicados de una lista
 
 Dada una lista de números enteros.
 
@@ -332,7 +332,7 @@ lista_c = [1, 2, 3, 4, 4, 4, 4, 4, 4, 4, 4]
 [1, 2, 3, 4]
 ```
 
-## 14.- Diferencias entre 2 listas.
+## 14.- Diferencias entre 2 listas
 
 Define la función _array\*diff*, que recibe como argumento dos listas de números enteros (lista *a* y *b*).
 
@@ -422,7 +422,7 @@ Ejemplo.
 [2, 10, 21, 32, 5, 18, 35, 48, 72, 100]
 ```
 
-### 17.- Lista ordenada?
+### 17.- ¿Lista ordenada?
 
 - Define una función llamada *ordenamiento*.
 - La función debe recibir como argumento un listado de números enteros con longitud N.
@@ -445,7 +445,7 @@ True
 
 Restricciones: No es posible utilizar el método/función sort que Python nos ofrece.
 
-### 18.-  Valores unicos.
+### 18.- Valores únicos
 
 - Define una función llamada *unicos*.
 - La función debe recibir como argumento un listado de números enteros de longitud N.
@@ -487,7 +487,7 @@ Ejemplos.
 1307674368000
 ```
 
-**20.- Triangulo en consola**
+### 20.- Triángulo en consola
 
 Escribe un programa en Python que imprima en consola un triangulo de asterisco (*) de N filas.
 
@@ -514,6 +514,6 @@ Ingresa la cantidad de filas: 3
 *****
 ```
 
-**21.- Palíndromos**
+### 21.- Palíndromos
 
 Escribe una frase y el programa averigua si es palíndroma o no. Convierte todos los caracteres en minúscula para la comparación y quita las tildes.

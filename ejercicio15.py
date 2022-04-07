@@ -1,3 +1,5 @@
+# 15.- Validador de contraseñas
+
 def is_valid_password(passwd): 
       
     simbolos =['?', '*', '%', '&', '@'] 

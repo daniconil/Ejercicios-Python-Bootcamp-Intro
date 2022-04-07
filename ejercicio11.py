@@ -1,3 +1,5 @@
+# 11.- Advina el número
+
 from random import randint
 
 def adivina_numero(): # parámetros = Variables dentro de los ( )

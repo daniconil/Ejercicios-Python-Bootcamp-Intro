@@ -1,3 +1,5 @@
+# 10.- Pig Latin*
+
 palabra = input('Ingresa tu palabra: ')
 
 nueva_palabra = ''

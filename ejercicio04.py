@@ -1,3 +1,5 @@
+# 4.- Contenido de un string
+
 mensaje = "Title: 'Nuevo ejercicio'"
 nuevo_mensaje = ''
 pass_caracter = False

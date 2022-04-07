@@ -1,3 +1,5 @@
+# 13.-  Eliminar elementos duplicados de una lista
+
 def simple_list(numeros):
     nueva_lista = []
     

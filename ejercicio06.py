@@ -1,3 +1,5 @@
+# 6.-  Cantidad de dígitos número entero
+
 numero = 123
 
 contador = 0
