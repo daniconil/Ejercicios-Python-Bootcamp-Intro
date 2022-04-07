@@ -1,3 +1,5 @@
+# 2.-Reemplazar vocales por posiciones
+
 mensaje = 'Hola mundo'
 nuevo_mensaje = ''
 

@@ -1,6 +1,6 @@
 # Ejercicios Bootcamp
 
-### 1.-Reemplaza vocales por @.
+### 1.-Reemplaza vocales por @
 
 Dado un string de longitud N. Donde N es mayor a 0.
 
@@ -42,7 +42,7 @@ Salida.
 'H4l1 m5nd4'
 ```
 
-### 3.-Cantidad de números en un string.
+### 3.-Cantidad de números en un string
 
 Dado un String de longitud N. Donde N es mayor a 0.
 

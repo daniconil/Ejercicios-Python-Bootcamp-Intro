@@ -1,3 +1,5 @@
+# 1.-Reemplaza vocales por @
+
 mensaje = 'Hola mundo'
 nuevo_mensaje = ''
 
