@@ -513,3 +513,7 @@ Ingresa la cantidad de filas: 3
  ***
 *****
 ```
+
+**21.- Palíndromos**
+
+Escribe una frase y el programa averigua si es palíndroma o no. Convierte todos los caracteres en minúscula para la comparación y quita las tildes.
